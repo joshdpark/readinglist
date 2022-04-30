@@ -3,7 +3,7 @@ My reading list
 
 | title                                                                               | author                | category               | read |
 |-------------------------------------------------------------------------------------|-----------------------|------------------------|------|
-| This Earth of Mankind                                                               | Pramyeoda Ananta Toer | Historical Fiction     |      |
+| This Earth of Mankind                                                               | Pramyeoda Ananta Toer | Historical Fiction     |  x   |
 | A swim in the pond in the rain                                                      | George Saunders       | Essays and Writing     |      |
 | Beowulf: A New Translation                                                          | Maria Dahvana Headley | Translated Classic     |      |
 | The Origins of Totalitarianism                                                      | Hannah Arendt         | Philosophy             |      |
